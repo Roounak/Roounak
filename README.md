@@ -17,8 +17,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons8-javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <!-- Python SVG -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons8-python.svg" alt="python" width="40" height="40"/> </a>
-<!-- Flask SVG -->
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="icons8-flask.svg" alt="flask" width="40" height="40"/> </a>
 <!-- Git SVG -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons8-git.svg" alt="git" width="40" height="40"/> </a>
 <!-- Tailwindcss SVG -->

@@ -33,5 +33,5 @@
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roounak&show_icons=true&locale=en" alt="roounak" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roounak&" alt="roounak" /></p>
-<p><a href="https://buymeacoffee.com/roounak"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="" width="200" alt="https://buymeacoffee.com/roounak" /></a></p>
+<p><a href="https://buymeacoffee.com/roounak"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="" width="180" alt="https://buymeacoffee.com/roounak" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roounak&label=Profile%20views&color=0e75b6&style=flat" alt="roounak"/></p>

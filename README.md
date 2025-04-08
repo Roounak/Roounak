@@ -28,7 +28,7 @@
 <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i><br>
 <p align="center">
-<a href="https://www.linkedin.com/in/roounak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roounak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rounakbiswas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roounak" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rooounak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rooounak" height="30" width="40" /></a>
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roounak&show_icons=true&locale=en" alt="roounak" /></p>
